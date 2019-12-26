@@ -333,10 +333,6 @@ tr, #comments li, #comments input[type="submit"], #comments input[type="reset"]{
 tr:nth-child(even), #comments li:nth-child(even){color:inherit; background-color:#F7F7F7;}
 table a, #comments a{background-color:inherit;}
 
-/*images*/
-.pic{overflow:hidden;}
-.pic img{transform:scale(1,1);transition: all 1s ease-out;}
-.pic img:hover{transform:scale(1.5,1.5);}
 
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */
